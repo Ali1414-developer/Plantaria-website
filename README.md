@@ -20,7 +20,13 @@ Plantaria is designed to be a user-friendly, visually appealing HTML-based websi
 - Detailed product cards with descriptions
 - Add to cart functionality
 - Responsive product grid
-- 
+<h2 align="center">📸 Project Screenshots</h2>
+
+<p align="center">
+  <img src="screenshots/login.png" 
+       width="600"
+       style="border: 2px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
 ### ℹ️ About Us Page
 - Brand story and mission
 - Company values with icons
