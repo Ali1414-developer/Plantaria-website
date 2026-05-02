@@ -6,6 +6,7 @@ Plantaria is a responsive front-end plant store website built with HTML, CSS, an
        width="800"
        style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
 </p>
+
 # Plantaria - Online Plant Store
 A beautiful, responsive website for Plantaria, an online plant store serving the Pakistani market.
 
@@ -34,6 +35,18 @@ Plantaria is designed to be a user-friendly, visually appealing HTML-based websi
 <h2 align="center">Home Page UI 4</h2>
 <p align="center">
   <img src="Screenshots/Home4.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">Cart Section</h2>
+<p align="center">
+  <img src="Screenshots/Cart.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">Search Bar</h2>
+<p align="center">
+  <img src="Screenshots/SearchBar.png" 
        width="800"
        style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
 </p>
