@@ -78,14 +78,48 @@ Plantaria is designed to be a user-friendly, visually appealing HTML-based websi
 - Company values with icons
 - Why choose Plantaria
 - Focus on Pakistani market expertise
-
+<h2 align="center">About US UI</h2>
+<p align="center">
+  <img src="Screenshots/About.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">About US UI 2</h2>
+<p align="center">
+  <img src="Screenshots/About2.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">About US UI 3</h2>
+<p align="center">
+  <img src="Screenshots/About3.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
 ### 📞 Contact Page
 - Contact form with WhatsApp integration
 - Business information and hours
 - Social media links
 - Quick order via WhatsApp
 - Location and contact details
-
+<h2 align="center">Contact section UI</h2>
+<p align="center">
+  <img src="Screenshots/Contact1.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">Contact section UI</h2>
+<p align="center">
+  <img src="Screenshots/Contact2.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">Contact On Whatsapp</h2>
+<p align="center">
+  <img src="Screenshots/Contactwhatapp.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
 ## Technical Features
 ### 🎨 Design
 - Modern, clean design inspired by the provided screenshot
