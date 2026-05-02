@@ -43,7 +43,36 @@ Plantaria is designed to be a user-friendly, visually appealing HTML-based websi
 - Detailed product cards with descriptions
 - Add to cart functionality
 - Responsive product grid
-
+<h2 align="center">Product (Plants) UI 1</h2>
+<p align="center">
+  <img src="Screenshots/Plant1.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">Product (Plants) UI 2</h2>
+<p align="center">
+  <img src="Screenshots/Plant2.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">Product (Plants) Indoor Plants UI</h2>
+<p align="center">
+  <img src="Screenshots/Indoor.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">Product (Plants) Outdoor Plants UI</h2>
+<p align="center">
+  <img src="Screenshots/Outdoor.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">Product (Plants) Hot Deals Plants UI</h2>
+<p align="center">
+  <img src="Screenshots/Hotdeals.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
 ### ℹ️ About Us Page
 - Brand story and mission
 - Company values with icons
