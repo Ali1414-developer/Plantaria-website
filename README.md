@@ -5,7 +5,12 @@ A beautiful, responsive website for Plantaria, an online plant store serving the
 
 ## Project Overview
 Plantaria is designed to be a user-friendly, visually appealing HTML-based website that showcases plants and creates an online presence for plant lovers in Pakistan.
-
+<h2 align="center">Home Page UI</h2>
+<p align="center">
+  <img src="Screenshots/Home1.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
 ## Features
 ### 🏠 Home Page
 - Brand introduction with hero banner
@@ -20,12 +25,7 @@ Plantaria is designed to be a user-friendly, visually appealing HTML-based websi
 - Detailed product cards with descriptions
 - Add to cart functionality
 - Responsive product grid
-<h1 align="center">📸Home Pages Screenshot</h1>
-<p align="center">
-  <img src="Screenshots/Home1.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
+
 ### ℹ️ About Us Page
 - Brand story and mission
 - Company values with icons
