@@ -1,16 +1,17 @@
 # Plantaria-website
 Plantaria is a responsive front-end plant store website built with HTML, CSS, and JavaScript. It features a modern UI, product showcase, mobile-friendly design, and interactive elements. The project highlights practical front-end skills and presents a portfolio-ready e-commerce style interface.
-# Plantaria - Online Plant Store
-A beautiful, responsive website for Plantaria, an online plant store serving the Pakistani market.
-
-## Project Overview
-Plantaria is designed to be a user-friendly, visually appealing HTML-based website that showcases plants and creates an online presence for plant lovers in Pakistan.
 <h2 align="center">Home Page UI</h2>
 <p align="center">
   <img src="Screenshots/Home1.png" 
        width="800"
        style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
 </p>
+# Plantaria - Online Plant Store
+A beautiful, responsive website for Plantaria, an online plant store serving the Pakistani market.
+
+## Project Overview
+Plantaria is designed to be a user-friendly, visually appealing HTML-based website that showcases plants and creates an online presence for plant lovers in Pakistan.
+
 ## Features
 ### 🏠 Home Page
 - Brand introduction with hero banner
