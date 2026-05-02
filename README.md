@@ -19,7 +19,24 @@ Plantaria is designed to be a user-friendly, visually appealing HTML-based websi
 - "Keep the Oxygen Supply for the Future" theme
 - Product grid with pricing in PKR
 - Special offers and deals
-
+<h2 align="center">Home Page UI 2</h2>
+<p align="center">
+  <img src="Screenshots/Home2.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">Home Page UI 3</h2>
+<p align="center">
+  <img src="Screenshots/Home3.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
+<h2 align="center">Home Page UI 4</h2>
+<p align="center">
+  <img src="Screenshots/Home4.png" 
+       width="800"
+       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
+</p>
 ### 🌱 Products Page
 - Plant categories: Indoor, Outdoor, Flowering, Non-flowering, Succulents
 - Interactive filtering system
