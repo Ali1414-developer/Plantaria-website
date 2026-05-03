@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Products - Plantaria</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="top-banner">
+            <p>Welcome to Plantaria for the amazing Indoor Plants</p>
+        </div>
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="logo">
+                    <i class="fas fa-leaf"></i>
+                    <span>PLANTARIA</span>
+                </div>
+                <ul class="nav-menu">
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="products.html" class="active">Plants</a></li>
+                    <li><a href="products.html#deals">Hot Deals</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+                <div class="nav-icons">
+                    <i class="fas fa-search"></i>
+                    <i class="fas fa-user"></i>
+                    <i class="fas fa-shopping-cart"></i>
+                    <div class="mobile-menu-toggle">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Page Header -->
+    <section class="page-header">
+        <div class="container">
+            <h1>Our Plant Collection</h1>
+            <p>Discover the perfect plants for your space</p>
+        </div>
+    </section>
+
+    <!-- Filter Section -->
+    <section class="filters">
+        <div class="container">
+            <div class="filter-buttons">
+                <button class="filter-btn active" data-filter="all" id="all">All Plants</button>
+                <button class="filter-btn" data-filter="indoor" id="indoor">Indoor Plants</button>
+                <button class="filter-btn" data-filter="outdoor" id="outdoor">Outdoor Plants</button>
+                <button class="filter-btn" data-filter="flowering" id="flowering">Flowering Plants</button>
+                <button class="filter-btn" data-filter="non-flowering" id="non-flowering">Non-Flowering Plants</button>
+                <button class="filter-btn" data-filter="succulents" id="succulents">Succulents</button>
+                <button class="filter-btn" data-filter="deals" id="deals">Hot Deals</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Products Grid -->
+    <section class="products-page">
+        <div class="container">
+            <div class="product-grid">
+                <!-- Indoor Plants -->
+                <div class="product-card" data-category="indoor non-flowering deals">
+                    <div class="product-image">
+                        <img src="images/snake-plant.jpg" alt="Snake Plant" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Snake+Plant'">
+                        <span class="product-tag hot-deal">Hot Deal</span>
+                    </div>
+                    <h3>Snake Plant (Sansevieria)</h3>
+                    <p class="description">Perfect air purifying plant for beginners</p>
+                    <p class="price">Rs.699.00 PKR <span class="old-price">Rs.899.00</span></p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <div class="product-card" data-category="indoor non-flowering">
+                    <div class="product-image">
+                        <img src="images/money-plant.jpg" alt="Money Plant" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Money+Plant'">
+                        <span class="product-tag">Best Seller</span>
+                    </div>
+                    <h3>Money Plant (Pothos)</h3>
+                    <p class="description">Brings prosperity and good luck</p>
+                    <p class="price">Rs.599.00 PKR</p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <div class="product-card" data-category="indoor non-flowering">
+                    <div class="product-image">
+                        <img src="images/rubber-plant.jpg" alt="Rubber Plant" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Rubber+Plant'">
+                        <span class="product-tag">Indoor</span>
+                    </div>
+                    <h3>Rubber Plant (Ficus Elastica)</h3>
+                    <p class="description">Beautiful glossy leaves, easy care</p>
+                    <p class="price">Rs.1,299.00 PKR</p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <!-- Flowering Plants -->
+                <div class="product-card" data-category="flowering indoor deals">
+                    <div class="product-image">
+                        <img src="images/peace-lily.jpg" alt="Peace Lily" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Peace+Lily'">
+                        <span class="product-tag hot-deal">Hot Deal</span>
+                    </div>
+                    <h3>Peace Lily</h3>
+                    <p class="description">Beautiful white flowers, air purifying</p>
+                    <p class="price">Rs.999.00 PKR <span class="old-price">Rs.1,199.00</span></p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <div class="product-card" data-category="flowering outdoor">
+                    <div class="product-image">
+                        <img src="images/rose-plant.jpg" alt="Rose Plant" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Rose+Plant'">
+                        <span class="product-tag">Outdoor</span>
+                    </div>
+                    <h3>Rose Plant</h3>
+                    <p class="description">Classic beautiful roses for your garden</p>
+                    <p class="price">Rs.799.00 PKR</p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <div class="product-card" data-category="flowering indoor">
+                    <div class="product-image">
+                        <img src="images/anthurium.jpg" alt="Anthurium" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Anthurium'">
+                        <span class="product-tag">Flowering</span>
+                    </div>
+                    <h3>Anthurium</h3>
+                    <p class="description">Bright red heart-shaped flowers</p>
+                    <p class="price">Rs.1,499.00 PKR</p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <!-- Succulents -->
+                <div class="product-card" data-category="succulents indoor deals">
+                    <div class="product-image">
+                        <img src="images/jade-plant.jpg" alt="Jade Plant" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Jade+Plant'">
+                        <span class="product-tag hot-deal">Hot Deal</span>
+                    </div>
+                    <h3>Jade Plant</h3>
+                    <p class="description">Lucky plant, very low maintenance</p>
+                    <p class="price">Rs.399.00 PKR <span class="old-price">Rs.699.00</span></p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <div class="product-card" data-category="succulents indoor deals">
+                    <div class="product-image">
+                        <img src="images/aloe-vera.jpg" alt="Aloe Vera" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Aloe+Vera'">
+                        <span class="product-tag hot-deal">Hot Deal</span>
+                    </div>
+                    <h3>Aloe Vera</h3>
+                    <p class="description">Medicinal plant with healing properties</p>
+                    <p class="price">Rs.599.00 PKR <span class="old-price">Rs.899.00</span></p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <!-- Outdoor Plants -->
+                <div class="product-card" data-category="outdoor non-flowering">
+                    <div class="product-image">
+                        <img src="images/bamboo.jpg" alt="Bamboo Plant" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Bamboo'">
+                        <span class="product-tag">Outdoor</span>
+                    </div>
+                    <h3>Lucky Bamboo</h3>
+                    <p class="description">Symbol of good fortune and prosperity</p>
+                    <p class="price">Rs.899.00 PKR</p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <div class="product-card" data-category="outdoor non-flowering">
+                    <div class="product-image">
+                        <img src="images/palm-plant.jpg" alt="Palm Plant" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Palm+Plant'">
+                        <span class="product-tag">Outdoor</span>
+                    </div>
+                    <h3>Areca Palm</h3>
+                    <p class="description">Tropical palm for outdoor spaces</p>
+                    <p class="price">Rs.1,799.00 PKR</p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <!-- More Indoor Plants -->
+                <div class="product-card" data-category="indoor non-flowering">
+                    <div class="product-image">
+                        <img src="images/spider-plant.jpg" alt="Spider Plant" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=Spider+Plant'">
+                        <span class="product-tag">Air Purifying</span>
+                    </div>
+                    <h3>Spider Plant</h3>
+                    <p class="description">Easy to grow, produces baby plants</p>
+                    <p class="price">Rs.599.00 PKR</p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+
+                <div class="product-card" data-category="indoor non-flowering">
+                    <div class="product-image">
+                        <img src="images/zz-plant.jpg" alt="ZZ Plant" onerror="this.src='https://via.placeholder.com/400x300/4CAF50/white?text=ZZ+Plant'">
+                        <span class="product-tag">Low Light</span>
+                    </div>
+                    <h3>ZZ Plant</h3>
+                    <p class="description">Perfect for low light conditions</p>
+                    <p class="price">Rs.1,099.00 PKR</p>
+                    <button class="add-to-cart">Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- WhatsApp Float Button -->
+    <div class="whatsapp-float">
+        <a href="https://wa.me/923089181414" target="_blank">
+            <i class="fab fa-whatsapp"></i>
+        </a>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <div class="logo">
+                        <i class="fas fa-leaf"></i>
+                        <span>PLANTARIA</span>
+                    </div>
+                    <p>Bringing timeless nature into modern spaces</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="products.html">Products</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="contact.html">Contact</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Follow Us</h4>
+                    <div class="social-links">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Plantaria. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

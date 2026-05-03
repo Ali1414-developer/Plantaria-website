@@ -1,139 +1,42 @@
-# Plantaria-website
-Plantaria is a responsive front-end plant store website built with HTML, CSS, and JavaScript. It features a modern UI, product showcase, mobile-friendly design, and interactive elements. The project highlights practical front-end skills and presents a portfolio-ready e-commerce style interface.
-<h2 align="center">Home Page UI</h2>
-<p align="center">
-  <img src="Screenshots/Home1.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-
 # Plantaria - Online Plant Store
+
 A beautiful, responsive website for Plantaria, an online plant store serving the Pakistani market.
 
 ## Project Overview
+
 Plantaria is designed to be a user-friendly, visually appealing HTML-based website that showcases plants and creates an online presence for plant lovers in Pakistan.
 
 ## Features
+
 ### 🏠 Home Page
 - Brand introduction with hero banner
 - Featured products showcase
 - "Keep the Oxygen Supply for the Future" theme
 - Product grid with pricing in PKR
 - Special offers and deals
-<h2 align="center">Home Page UI 2</h2>
-<p align="center">
-  <img src="Screenshots/Home2.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">Home Page UI 3</h2>
-<p align="center">
-  <img src="Screenshots/Home3.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">Home Page UI 4</h2>
-<p align="center">
-  <img src="Screenshots/Home4.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">Cart Section</h2>
-<p align="center">
-  <img src="Screenshots/Cart.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">Search Bar</h2>
-<p align="center">
-  <img src="Screenshots/SearchBar.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
+
 ### 🌱 Products Page
 - Plant categories: Indoor, Outdoor, Flowering, Non-flowering, Succulents
 - Interactive filtering system
 - Detailed product cards with descriptions
 - Add to cart functionality
 - Responsive product grid
-<h2 align="center">Product (Plants) UI 1</h2>
-<p align="center">
-  <img src="Screenshots/Plant1.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">Product (Plants) UI 2</h2>
-<p align="center">
-  <img src="Screenshots/Plant2.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">Product (Plants) Indoor Plants UI</h2>
-<p align="center">
-  <img src="Screenshots/Indoor.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">Product (Plants) Outdoor Plants UI</h2>
-<p align="center">
-  <img src="Screenshots/Outdoor.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">Product (Plants) Hot Deals Plants UI</h2>
-<p align="center">
-  <img src="Screenshots/Hotdeals.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
+
 ### ℹ️ About Us Page
 - Brand story and mission
 - Company values with icons
 - Why choose Plantaria
 - Focus on Pakistani market expertise
-<h2 align="center">About US UI</h2>
-<p align="center">
-  <img src="Screenshots/About.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">About US UI 2</h2>
-<p align="center">
-  <img src="Screenshots/About2.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">About US UI 3</h2>
-<p align="center">
-  <img src="Screenshots/About3.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
+
 ### 📞 Contact Page
 - Contact form with WhatsApp integration
 - Business information and hours
 - Social media links
 - Quick order via WhatsApp
 - Location and contact details
-<h2 align="center">Contact section UI</h2>
-<p align="center">
-  <img src="Screenshots/Contact1.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">Contact section UI</h2>
-<p align="center">
-  <img src="Screenshots/Contact2.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
-<h2 align="center">Contact On Whatsapp</h2>
-<p align="center">
-  <img src="Screenshots/Contactwhatapp.png" 
-       width="800"
-       style="border: 5px solid #e0e0e0; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.15); margin-bottom: 20px;" />
-</p>
+
 ## Technical Features
+
 ### 🎨 Design
 - Modern, clean design inspired by the provided screenshot
 - Green color scheme reflecting nature theme
@@ -156,6 +59,8 @@ Plantaria is designed to be a user-friendly, visually appealing HTML-based websi
 - Fast loading times
 
 ## File Structure
+
+```
 plantaria/
 ├── index.html          # Home page
 ├── products.html       # Products catalog
@@ -168,6 +73,7 @@ plantaria/
 ```
 
 ## Setup Instructions
+
 1. **Clone or download** all files to your web server
 2. **Add product images** to the `images/` folder:
    - hero-plants.jpg (for hero section)
@@ -178,6 +84,7 @@ plantaria/
 5. **Test** on different devices and browsers
 
 ## Required Images
+
 To complete the website, add these images to the `images/` folder:
 
 ### Home Page
@@ -199,6 +106,7 @@ To complete the website, add these images to the `images/` folder:
 - `zz-plant.jpg`
 
 ## Customization
+
 ### Colors
 The main colors can be changed in `styles.css`:
 - Primary green: `#4CAF50`
@@ -220,6 +128,7 @@ The main colors can be changed in `styles.css`:
 - Customer reviews
 
 ## Browser Support
+
 - Chrome (recommended)
 - Firefox
 - Safari
@@ -227,6 +136,7 @@ The main colors can be changed in `styles.css`:
 - Mobile browsers
 
 ## Pakistani Market Focus
+
 - Prices in Pakistani Rupees (PKR)
 - WhatsApp integration for easy ordering
 - Local contact information
@@ -234,12 +144,16 @@ The main colors can be changed in `styles.css`:
 - Urdu language support (can be added)
 
 ## Performance
+
 - Optimized CSS and JavaScript
 - Compressed images recommended
 - Fast loading times
 - SEO-friendly structure
 
 ## Support
-For technical support or customization requests, contact the development team.
-**Plantaria** - Bringing timeless nature into modern spaces across Pakistan 🌱
 
+For technical support or customization requests, contact the development team.
+
+---
+
+**Plantaria** - Bringing timeless nature into modern spaces across Pakistan 🌱
